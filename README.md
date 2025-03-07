@@ -11,11 +11,11 @@ Additionally, the project looks into customer segmentation, delving into differe
 - With Instacart’s wide range of product prices, what recommendations can simplify price range groupings to better guide marketing efforts?
 - Are there specific types of products that are more popular than others?
 - How is brand loyalty distributed among users?
-- Do ordering habits vary based on a customer’s loyalty status?
+- Do spending habits vary based on a customer’s loyalty status?
 - Are there differences in ordering habits based on a customer’s region?
 - Is there a connection between age and family status regarding ordering habits?
 - What classifications can be derived from demographic information, such as age, income, types of goods, and family status?
-- How do ordering habits differ among various customer profiles?
+- How do spending habits differ among various customer profiles?
 
 ## Folders
 Description of folder contents are as follows:
